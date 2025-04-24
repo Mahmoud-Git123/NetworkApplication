@@ -34,7 +34,7 @@ No external dependencies – pure Python standard library.<br/>
 Tested on Linux (works best with raw socket permissions).<br/>
 
 # How To Run:<br/>
-#Ping a host
+#Ping a host<br/>
 python3 NetworkApplications.py ping <hostname><br/>
 
 #Traceroute to a host (ICMP or UDP)<br/>
