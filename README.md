@@ -38,6 +38,7 @@ Tested on Linux (works best with raw socket permissions).
 python3 NetworkApplications.py ping <hostname>
 
 #Traceroute to a host (ICMP or UDP)
+
 python3 NetworkApplications.py traceroute --protocol icmp <hostname>
 python3 NetworkApplications.py traceroute --protocol udp <hostname>
 
